@@ -1,1 +1,1 @@
-scraper_curry_hammock_january: node scraper.js '--campgrounds=Curry_Hammock_Sp' --state=FL --hookup --arrival=1/1/13 --departure=1/31/13 --nights=1 --notify_boxcar --interval=5
+scraper_florida_january: node scraper.js '--campgrounds=Bahia_Honda_Sp,Curry_Hammock_Sp,Long_Key_Sp' --state=FL --hookup --arrival=1/6/13 --departure=2/15/13 --nights=4 --false_positives_max=10 --notify_boxcar --interval=5
